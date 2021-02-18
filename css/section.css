@@ -1,0 +1,125 @@
+section{
+    background-color: #efefef;
+    height:750px;
+}
+
+.section_text{
+    font-family: 'Montserrat Regular';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 32px;
+    color: #333333;
+    padding-top:50px;
+    
+    margin-left:213px;
+    padding-bottom:50px;
+}
+
+.phones{
+    display:flex;
+    height:500px;
+}
+.phone{
+    width:270px;
+    height:468px;
+    background-color: #fff;
+    margin-right:31px;
+}
+
+.left{
+    margin-left:137px;
+    margin-top:209px;
+    margin-right:31px;
+}
+.right{
+    margin-top:209px;
+}
+
+
+.phone_name{
+    font-family: 'Montserrat Regular';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    margin-left:20px;
+    margin-top:20px;
+}
+.phone_pic{
+    margin-left:-11px;
+}
+.colors{
+    font-family:'Montserrat Regular';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(176, 176, 176, 0.99);
+    margin-left:29.19px;
+    margin-top:6px;
+}
+
+.prices{
+    display:flex;
+}
+
+.price_1{
+    font-family: 'Montserrat Regular';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #EB4D4D;
+    margin-left:20px;
+    margin-top:12px;
+}
+.price_2{
+    font-family:'Montserrat Regular';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: line-through;
+    color: rgba(196, 196, 196, 0.5);
+    margin-left:37.45px;
+    margin-top:17px;
+}
+
+.buy{
+    background: #eb4d4d;
+    width:270px;
+    height:50px;
+    margin-top:36px;
+}
+.buy a{
+    text-decoration: none;
+    display: block;
+    font-family: 'Montserrat Regular';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 25px #FFFFFF;
+
+}
+
+.line{
+    width:1170px;
+    height:8px;
+    background-color:rgba(46,92,212,0.3);
+    margin-left:215px;
+    margin-top:65px;
+    position: relative;
+}
+.inline{
+    margin-left:364px;
+    width:120px;
+    height:14px;
+    background-color: rgba(46,93,213,0.8);
+    position: absolute;
+    margin-top:-10px;
+}
